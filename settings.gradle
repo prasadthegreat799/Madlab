@@ -1,0 +1,3 @@
+include ':madlabmodule'
+include ':app'
+rootProject.name = "Madlab"
